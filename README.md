@@ -1,6 +1,6 @@
 ✨ Hi, I’m Sarvagon, a French sys-admin student ✨
 I know HTML, CSS, Python and PHP :)
-Some of those programs are protected by liscens, thanks to not use them for bad things :D
+Some of those programs are protected by liscences, thanks to not use them for bad things :D
 
 <!---
 Sarvagon/Sarvagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
