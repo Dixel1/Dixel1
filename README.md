@@ -1,6 +1,6 @@
 ✨ Hi, I’m Sarvagon, a French sys-admin student ✨
 I know HTML, CSS, Python and PHP :)
-Some of those programs I post are protected by liscences, also, thanks to not use them for bad things.Any helps or suggestions are welcome.  :D
+Some of those programs I post are protected by liscences, also, thanks to not use them for bad things. Any helps or suggestions are welcome.  :D
 
 
 
