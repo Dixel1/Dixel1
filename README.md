@@ -1,5 +1,5 @@
 ✨ Hi, I’m Sarvagon, a French sys-admin student ✨
-I know HTML, CSS, Python and PHP :)
+I know HTML, CSS, Python and PHP and a little of Java Script. I'm actually learning PowerShell :)
 Some of those programs I post are protected by liscences, also, thanks to not use them for bad things. Any helps or suggestions are welcome.  :D
 
 
