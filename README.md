@@ -8,7 +8,7 @@ By using my apps, you accept some legacy Terms :
 - I am not in any way responsible for the use that you make of the applications that are availables, use them wisely and at your own risk. No claim for damages (or otherwise) can be made to me. 👀
 - You must respect the licenses applied if there are. 📜
 - Be respectfull to keep Github a family place. 😃
-- Everything I'm developping is respectfull of the RGPD (Réglement Général sur la Protection des Donées), for websites you need to adapt them to the RGPD before using them (LEGAL OBLIGATION). You can read RGPD Terms here : https://www.cnil.fr/fr/reglement-europeen-protection-donnees 🤳
+- Everything I'm developping is respectfull of the RGPD (Réglement Général sur la Protection des Données), for websites you need to adapt them to the RGPD before using them (LEGAL OBLIGATION). You can read RGPD Terms here : https://www.cnil.fr/fr/reglement-europeen-protection-donnees 🤳
 - Of course, you need to respect Terms of Github. You can read them here : https://docs.github.com/en/github/site-policy 💻
 <!---
 Sarvagon/Sarvagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
