@@ -1,4 +1,4 @@
-✨ Hi, I’m Sarvagon, a French sys-admin student ✨
+✨ Hi, I’m Dixel, a French sys-admin student ✨
 Some of those programs I post are protected by liscences, also, thanks to not use them for bad things. Any helps or suggestions are welcome.  :D
 
 
