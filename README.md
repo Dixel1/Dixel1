@@ -11,6 +11,6 @@ By using my apps, you accept some legacy Terms :
 - Everything I'm developping is respectfull of the RGPD (Réglement Général sur la Protection des Données), for websites you need to adapt them to the RGPD before using them (LEGAL OBLIGATION). You can read RGPD Terms here : https://www.cnil.fr/fr/reglement-europeen-protection-donnees 🤳
 - Of course, you need to respect Terms of Github. You can read them here : https://docs.github.com/en/github/site-policy 💻
 <!---
-Sarvagon/Sarvagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dixel1/Dixel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
